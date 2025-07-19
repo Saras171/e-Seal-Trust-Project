@@ -47,14 +47,14 @@ A modern web application that enables users to digitally sign PDF documents with
 - Deployment: **Vercel**
 
 ###  Backend
-- Built with Node.js + Express.js.
+- Built with **Node.js + Express.js**.
 - RESTful API using **Express.js**.
 - Authentication using **JWT + bcrypt**.
-- Cookie-based session management.
-- File handling with Multer middleware.
-- PDF manipulation using pdf-lib and pdfjs-dist.
+- **Cookie-based** session management.
+- File handling with **Multer** middleware.
+- PDF manipulation using **pdf-lib and pdfjs-dist**.
 - Environment-based configuration.
-- Supabase used as cloud-hosted PostgreSQL database.
+- **Supabase** used as **cloud-hosted PostgreSQL database**.
 - Deployment: **Render**
 
 ---
@@ -138,7 +138,7 @@ Digital Signature (Certificate-based)
 
 ---
 ## Author
-- GitHub Repository: [e Seal Trust App](https://github.com/Saras171/e-Seal-Trust-Project.git)
+- GitHub Repository: [e Seal Trust Project](https://github.com/Saras171/e-Seal-Trust-Project.git)
 ## Contributing
 
 Contributions are welcome 🤝! Feel free to submit a pull request.
