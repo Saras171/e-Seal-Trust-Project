@@ -63,11 +63,11 @@ A modern web application that enables users to digitally sign PDF documents with
 
 | Home Page | Login | DashBoard (with filtered and sorted Task Management) |
 |------------|-------------------|-------------------|
-| ![Home page](./screenshots/home.jpg) | ![Login Page](./screenshots/login.jpg) | ![Dashboard](./screenshots/sorted-dashboard.jpg) |
+| ![Home page](./screenshots/home.jpg) | ![Login Page](./screenshots/login.jpg) | ![Dashboard](./screenshots/sorted_dashboard.jpg) |
 
 | Pdf Editor | Pdf Preview | Pdf Download |
 |------------|-------------------|-------------------|
-| ![Pdf Editor](./screenshots/pdf-editor.jpg) | ![Pdf Preview](./screenshots/pdf-preview.jpg) | ![Pdf Download](./screenshots/sorted_dashboard.jpg) |
+| ![Pdf Editor](./screenshots/pdf-editor.jpg) | ![Pdf Preview](./screenshots/pdf-preview.jpg) | ![Pdf Download](./screenshots/pdf-download.jpg) |
 
 ---
 
