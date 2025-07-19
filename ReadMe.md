@@ -67,7 +67,7 @@ A modern web application that enables users to digitally sign PDF documents with
 
 | Pdf Editor | Pdf Preview | Pdf Download |
 |------------|-------------------|-------------------|
-| ![Pdf Editor](./screenshots/pdf-editor.jpg) | ![Pdf Preview](./screenshots/pdf-preview.jpg) | ![Pdf Download](./screenshots/pdf-download.jpg) |
+| ![Pdf Editor](./screenshots/pdf-editor.jpg) | ![Pdf Preview](./screenshots/pdf-preview.jpg) | ![Pdf Download](./screenshots/sorted_dashboard.jpg) |
 
 ---
 
